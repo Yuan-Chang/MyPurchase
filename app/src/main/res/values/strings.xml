@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyPurchase</string>
+    <string name="personal">Personal</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="registration_date">Registration Date</string>
+    <string name="view_purchase">View Purchases</string>
+    <string name="loading">loading…</string>
+    <string name="serial">Serial:</string>
+    <string name="description">Description:</string>
+    <string name="Purchase">Purchase</string>
+
+</resources>

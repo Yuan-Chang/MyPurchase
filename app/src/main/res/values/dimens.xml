@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">21sp</dimen>
+    <dimen name="personalMargin">40dp</dimen>
+    <dimen name="personalTextSize">20sp</dimen>
+    <dimen name="itemTextSize">18sp</dimen>
+</resources>
