@@ -2,8 +2,8 @@
 
 Highlight few key points in this project
 1. Using MVVM architecture
-2. Use navigation graph for navigation
-3. Use Dagger for dependency injection
+2. Using navigation graph for navigation
+3. Using Dagger for dependency injection
 4. Unit tests for key business logic
 
 Assumption
