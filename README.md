@@ -5,6 +5,7 @@ Highlight few key points in this project
 2. Using navigation graph for navigation
 3. Using Dagger for dependency injection
 4. Unit tests for key business logic
+5. Use Picasso library for image rendering and caching
 
 Assumption
 * Using fixed URL in this project. In real world, it should be constructed based on the userID or other variables.
